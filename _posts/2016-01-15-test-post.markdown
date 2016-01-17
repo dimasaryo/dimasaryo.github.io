@@ -1,0 +1,8 @@
+---
+layout: post
+title: Test new post
+date: 2016-01-15T14:37:44.000Z
+categories: update
+---
+
+This is new post
